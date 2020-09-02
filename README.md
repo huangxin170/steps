@@ -1,7 +1,7 @@
 # steps
+上传到GitHub步骤
 
-###上传到GitHub步骤
-
+### 将本地项目上传到GitHub中
 cd XXX/XXX   （打开终端 进入项目的根目录 ）
 git init  // 初始化git
 git add . // add所有文件
