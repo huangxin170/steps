@@ -1,4 +1,5 @@
 # steps
+
 ###上传到GitHub步骤
 
 cd XXX/XXX   （打开终端 进入项目的根目录 ）
