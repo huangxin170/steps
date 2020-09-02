@@ -18,3 +18,5 @@ git push -u origin master // 提交到远程库
 
 cd xxx (需要保存的文件目录)
 git clone  https://github.com/huangxin170/Test.git  //项目地址
+
+
